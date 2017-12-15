@@ -1,0 +1,21 @@
+{
+  "name": "html5-storage",
+  "version": "1.0.2",
+  "description": "Html5's Localstorage and sessionstorage toolset",
+  "main": "index.js",
+  "author": {
+    "name": "linchaoqun",
+    "email": "lchaoqun@sina.cn"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ShuangMuChengLi/html5-storage.git"
+  },
+  "homepage": "http://www.linchaoqun.com/",
+  "keywords": [
+    "Localstorage",
+    "sessionstorage",
+    "html5-storage"
+  ],
+}
