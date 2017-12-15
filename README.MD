@@ -1,3 +1,6 @@
+对html5的storage进行了封装，使得存储时可以存储对象，读取时也返回对象。
+
+The storage of html5 is encapsulated so that objects can be set and objects returned when get.
 #install
 ```bash
 npm html5-storage
